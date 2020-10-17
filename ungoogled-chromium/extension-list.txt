@@ -21,6 +21,11 @@ https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomj
 #Google Input Tools
 https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab
 
+#adblock lists
+
+#easylist
+https://easylist.to/
+
 #themes
 
 #nord
