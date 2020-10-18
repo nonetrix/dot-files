@@ -1,39 +1,39 @@
 #IDE
-vscodium
+emacs
 
 #browser
-ungoogled chromium
+emacs
 
 #text editor
-nano(sorry vim users)
+emacs
 
 #WM
-xmonad
+emacs
 
 #compositor
-picom
+chopin
 
 #display server
-Xorg
+emacs
 
 #init system
-systemd
+emacs
 
 #shell
-zsh
+emacs
 
 #audio
-pulseaudio
+emacs
 
 #keyboard layout
-colemak
+abcdef
 
 #menu
-dmenu
+emacs
 
 #music 
-spotify or spotify-tui on linux
+emacs
 
 #terminal emulator 
-termite
+emacs
 
