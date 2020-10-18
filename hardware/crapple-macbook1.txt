@@ -1,0 +1,8 @@
+#CPU
+core 2 duo or something
+
+#GPU
+shitty intel one
+
+#RAM
+2GBs
