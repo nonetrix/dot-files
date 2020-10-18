@@ -7,7 +7,8 @@ ungoogled chromium
 #text editor
 nano(sorry vim users)
 
-#os GNU/Linux/Arch
+#os 
+Linux/GNU/Arch
 
 #WM
 xmonad
