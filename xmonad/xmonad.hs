@@ -81,7 +81,7 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     [ ((modm .|. shiftMask, xK_Return), spawn $ XMonad.terminal conf)
 
     -- launch dmenu
-    , ((modm,               xK_p     ), spawn "exe=`dmenu_path | dmenu` && eval \"exec $exe\"")
+    , ((modm,               xK_p     ), spawn "dmenu_run -fn 'Droid Sans Mono-9' -nb '#2E3440' -sf '#ECEFF4' -sb '#88C0D0' -nf '#ECEFF4' ")
 
     --open ungoogled chromium
     , ((modm .|. shiftMask, xK_b     ), spawn "chromium")
