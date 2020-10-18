@@ -1,0 +1,13 @@
+#browser
+bromite/firefox nightly
+
+#launcher
+microsoft launcher
+
+#keyboard
+microsoft swift board
+
+#email
+protonmail app
+
+#music soptify
