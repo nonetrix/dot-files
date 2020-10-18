@@ -1,0 +1,39 @@
+#IDE
+vscodium
+
+#browser
+ungoogled chromium
+
+#text editor
+nano(sorry vim users)
+
+#WM
+xmonad
+
+#compositor
+picom
+
+#display server
+Xorg
+
+#init system
+systemd
+
+#shell
+zsh
+
+#audio
+pulseaudio
+
+#keyboard layout
+colemak
+
+#menu
+dmenu
+
+#music 
+spotify or spotify-tui on linux
+
+#terminal emulator 
+termite
+
