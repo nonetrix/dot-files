@@ -279,7 +279,6 @@ myLogHook = return ()
 --
 myStartupHook = do
 	spawnOnce "nitrogen --restore &"
-	spawnOnce "picom &"
 	spawnOnce "xmobar /home/nonetrix/.config/xmobar/xmobarrc &"
 	spawnOnce "unclutter -idle 4"
 ------------------------------------------------------------------------
