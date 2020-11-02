@@ -11,10 +11,10 @@ nano(sorry vim users)
 Linux/GNU/Arch
 
 #WM
-xmonad
+DWM
 
 #compositor
-picom
+none
 
 #display server
 Xorg
@@ -23,7 +23,7 @@ Xorg
 systemd
 
 #shell
-zsh
+fish
 
 #audio
 pulseaudio
@@ -35,7 +35,7 @@ colemak
 dmenu
 
 #music 
-spotify or spotify-tui on linux
+youtube music in a browser
 
 #terminal emulator 
 termite
