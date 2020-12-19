@@ -3,21 +3,7 @@
 #dark reader
 https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
 
-#Privacy Possum
-https://chrome.google.com/webstore/detail/privacy-possum/ommfjecdpepadiafbnidoiggfpbnkfbj
-
-#ublock
-https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
-
-#Cookie AutoDelete
-https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh
-
 #Google Input Tools
 https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab
-
-#adblock lists
-
-#easylist
-https://easylist.to/
 
 
