@@ -2,41 +2,41 @@
 vscodium
 
 #browser
-ungoogled chromium
+brave
 
 #text editor
 nano(sorry vim users)
 
 #os 
-Linux/GNU/Arch
+Linux/GNU/Arch sometimes gentoo
 
 #WM
 DWM
 
 #compositor
-none
+picom-jonaburg
 
 #display server
 Xorg
 
 #init system
-systemd
+systemd sometimes openRC
 
 #shell
 fish
 
 #audio
-pulseaudio
+pulseaudio also trying pipewire
 
 #keyboard layout
 colemak
 
 #menu
-dmenu
+rofi
 
 #music 
 youtube music in a browser
 
 #terminal emulator 
-termite
+alacirtty
 
