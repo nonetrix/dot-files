@@ -3,12 +3,6 @@
 #dark reader
 https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
 
-#Decentraleyes
-https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj
-
-#Privacy Badger
-https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
-
 #Privacy Possum
 https://chrome.google.com/webstore/detail/privacy-possum/ommfjecdpepadiafbnidoiggfpbnkfbj
 
@@ -26,7 +20,4 @@ https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdin
 #easylist
 https://easylist.to/
 
-#themes
 
-#nord
-https://chrome.google.com/webstore/detail/nord/abehfkkfjlplnjadfcjiflnejblfmmpj
