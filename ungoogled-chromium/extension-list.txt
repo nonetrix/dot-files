@@ -1,9 +1,0 @@
-#addons
-
-#dark reader
-https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
-
-#Google Input Tools
-https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab
-
-
