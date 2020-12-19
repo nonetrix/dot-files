@@ -1,13 +1,14 @@
 #browser
-bromite/firefox nightly
+brave and firefox nightly
 
 #launcher
-microsoft launcher
+lawnchair
 
 #keyboard
-microsoft swift board
+openboard
 
 #email
 protonmail app
 
-#music soptify
+#music 
+new pipe
