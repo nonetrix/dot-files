@@ -1,0 +1,374 @@
+#logo-icon:hover {
+    transition: transform 250ms;
+    transform: scale(1.209, 1.209);
+}
+
+.style-scope ytd-toggle-button-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+ 
+.yt-confirm-dialog-renderer {
+    border-radius: 100px !important;
+}
+
+.ytd-popup-container {
+    border-radius: 30px !important;
+    
+}
+
+.unread:hover {
+    transition: transform 250ms;
+    transform: scale(1.030, 1.030);
+}
+
+html:not(.style-scope)[dark], :not(.style-scope)[dark] {
+    --yt-spec-themed-blue: #3eff75;
+}
+
+
+.ytp-chrome-bottom {
+    backdrop-filter: blur(20px);
+    border-radius: 0px 0px 15px 15px !important;
+}
+
+#toast {
+    background-color: #00000045 !important;
+    backdrop-filter: blur(20px);
+}
+
+.iv-card {
+    background-color: #00000061 !important;
+    color: white !important;
+    backdrop-filter: blur(20px);
+    border-radius: 20px !important;
+}
+
+.branding-context-container-inner {
+    backdrop-filter: blur(20px);
+    background-color: #00000061 !important;
+    border-radius: 20px !important;
+}
+
+.iv-card:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+.iv-drawer {
+    backdrop-filter: blur(20px);
+}
+
+.iv-card-primary-link {
+    color: white !important;
+}
+
+.v-card-video {
+    background-color: #00000061 !important;
+    color: white !important;
+}
+
+.style-scope ytd-subscribe-button-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+
+
+.ytp-play-progress {
+    background-color: #3eff75 !important;
+    color: #3eff75 !important;
+}
+
+.sbdd_b {
+    background-color: #000 !important;
+    color: white !important;
+}
+
+.sbsb_a {
+    background-color: #000 !important;
+    color: white !important;
+}
+
+.sbsb_d {
+    background-color: #464646 !important;
+    color: white !important;
+}
+
+.sbqs_c {
+    color: white;
+}
+
+.sbfl_b {
+    background-color: #000 !important;
+    color: white !important;
+}
+
+.ytp-swatch-background-color {
+    background-color: #3eff75 !important;
+    color: #3eff75 !important;
+}
+
+.ytp-menuitem-toggle-checkbox {
+    background-color: #3eff75 !important;
+}
+
+.ytp-swatch-color {
+    color: #3eff75;
+}
+
+
+.ytp-popup {
+    backdrop-filter: blur(20px);
+}
+
+.ytp-live-badge[disabled]:before {
+    background: #3eff75;
+}
+
+.ytp-chrome-controls .ytp-button[aria-pressed]:after {
+    
+    background-color: #3eff75;
+    
+}
+
+.ytd-button-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+.style-scope ytd-button-renderer {
+    
+    border-radius: 20px !important;
+}
+
+.ytp-videowall-still-image {
+    border-radius: 20px !important;
+}
+
+.ytp-autonav-endscreen-upnext-thumbnail {
+    border-radius: 20px !important;
+}
+
+.ytp-autonav-endscreen-upnext-thumbnail:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+
+.ytp-videowall-still-image:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+.ytp-autonav-endscreen-upnext-thumbnail:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+
+
+
+.style-scope ytd-button-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+    
+}
+
+
+.style-scope ytd-thumbnail:hover {
+    transition: transform 250ms;
+    transform: scale(1.020, 1.020);
+    
+}
+
+.ytp-videowall-still-info-content {
+    border-radius: 20px !important;
+}
+
+.ytp-videowall-still-info-bg:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+.ytd-thumbnail {
+    border-radius: 20px !important;
+    z-index: 200;
+    
+}
+
+#search-icon-legacy {
+    border-radius: 0px 100px 100px 0px !important;
+}
+
+#container {
+    border-radius: 100px 0px 0px 100px !important;
+}
+
+.branding-img {
+    border-radius: 20px !important;
+}
+
+.ytp-caption-segment {
+    border-radius: 20px !important;
+    backdrop-filter: blur(20px);
+    background-color: #0000006b !important;
+}
+
+.ytd-subscribe-button-renderer {
+    border-radius: 20px !important;
+}
+
+.ytp-sb-subscribe {
+    border-radius: 20px !important;
+}
+
+.ytp-sb-unsubscribe {
+    border-radius: 20px !important;
+}
+
+.badge {
+    border-radius: 8px !important;
+}
+
+.style-scope ytd-masthead {
+    backdrop-filter: blur(20px);
+    background-color: #0000009c;
+}
+
+.style-scope yt-img-shadow:hover {
+    transition: transform 250ms;
+    transform: scale(1.120, 1.120);
+}
+
+.style-scope ytd-app {
+    backdrop-filter: blur(20px);
+    background-color: #0000009c;
+}
+
+.opened {
+    background-color: #00000052;
+    backdrop-filter: blur(5px);
+}
+
+
+.style-scope ytd-searchbox:hover {
+    transition: transform 250ms;
+    transform: scale(1.030, 1.030);
+}
+
+.style-scope yt-chip-cloud-chip-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.130, 1.130);
+}
+
+.style-scope ytd-notification-topbar-button-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.230, 1.230);
+}
+
+#guide-icon:hover {
+    transition: transform 250ms;
+    transform: scale(1.230, 1.230);
+}
+
+.style-scope ytd-rich-item-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.130, 1.130);
+}
+
+.style-scope ytd-guide-entry-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.130, 1.130);
+}
+
+.style-scope ytd-topbar-menu-button-renderer:hover {
+    transition: transform 250ms;
+    transform: scale(1.230, 1.230);
+}
+
+
+.style-scope ytd-multi-page-menu-renderer {
+    transition: transform 250ms;
+    backdrop-filter: blur(20px);
+}
+
+#guide-inner-content {
+
+    background-color: #000;
+}
+
+
+.style-scope ytd-two-column-browse-results-renderer {
+    background-color: #000;
+}
+
+.style-scope ytd-watch-flexy {
+    background-color: #000;
+}
+
+.ytd-mini-guide-renderer {
+    background-color: #000 !important;
+}
+
+html:not(.style-scope)[dark],
+:not(.style-scope)[dark] {
+    --yt-spec-brand-background-solid: #000;
+    --yt-spec-brand-background-primary: #0000003d;
+    --yt-spec-brand-background-secondary: rgba(0, 0, 0, .42);
+    --yt-spec-general-background-a: #000;
+    --yt-spec-general-background-b: #000;
+    --yt-spec-general-background-c: #000;
+    --yt-spec-error-background: #000;
+    --yt-spec-text-primary-inverse: #000;
+    --yt-spec-call-to-action: #3eff75;
+    --yt-spec-icon-active-other: #fff;
+    --yt-spec-badge-chip-background: rgba(255, 255, 255, 0.1);
+    --yt-spec-verified-badge-background: rgba(255, 255, 255, 0.25);
+    --yt-spec-filled-button-text: #000;
+    --yt-spec-call-to-action-inverse: #36d062;
+    --yt-spec-brand-button-background: #3eff75;
+    --yt-spec-brand-link-text: #3eff75;
+}
+
+html:not(.style-scope) {
+    --yt-spec-brand-background-solid: #fff;
+    --yt-spec-brand-background-primary: rgba(255, 255, 255, 0.98);
+    --yt-spec-brand-background-secondary: rgba(255, 255, 255, 0.95);
+    --yt-spec-general-background-a: #000;
+    --yt-spec-general-background-b: #000;
+    --yt-spec-general-background-c: #000;
+    --yt-spec-error-background: #000;
+    --yt-spec-text-primary: #000;
+    --yt-spec-badge-chip-background: rgba(0, 0, 0, 0.05);
+    --yt-spec-verified-badge-background: rgba(0, 0, 0, 0.15);
+    --yt-spec-touch-response: #000;
+    --yt-spec-paper-tab-ink: rgba(0, 0, 0, 0.3);
+    --yt-spec-brand-icon-active: #3eff75;
+    --yt-spec-brand-button-background: #3eff75;
+    --yt-spec-brand-link-text: #3eff75;
+    --yt-spec-wordmark-text: #000;
+    --yt-spec-snackbar-background: #212121;
+    --yt-spec-selected-nav-text: #3eff75;
+    --yt-spec-static-brand-red: #3eff75;
+    --yt-spec-static-brand-black: #000;
+    --yt-spec-static-overlay-call-to-action: #3eff75;
+    --yt-spec-static-overlay-background-brand: #3eff75;
+}
+
+.ytd-feed-filter-chip-bar-renderer {
+    backdrop-filter: blur(20px);
+}
+
+.ytp-settings-button.ytp-hd-quality-badge:after {
+    content: "";
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    height: 9px;
+    width: 13px;
+    background-color: #3eff75;
+    border-radius: 1px;
+    line-height: normal;
+}

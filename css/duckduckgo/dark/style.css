@@ -1,0 +1,82 @@
+.is-atb-fullbleed {
+    background-color: #000000
+}
+
+.content--home {
+    background-color: #000000
+}
+
+.header-wrap--home {
+    background-color: #000000
+}  
+
+.js-header-wrap {
+    background-color: #000000
+}
+
+.search--home {
+    background-color: #000000
+}  
+
+.js-search-form search--adv {
+    background-color: #000000
+}
+
+.module:not(.module--carousel):not(.module--placeholder):not(.module--images), .modal--popout .modal__box, .modal__box, .sidebar-modules .module, .results--main .result:not(.result--ad).highlight, .module .module--carousel__item, .user-loc-cta, .address-detail, .modal--dropdown.modal--popout .modal__box, .tile--info, .place-detail, .badge-link, .is-atb-fullbleed .content-info__item, .atb-banner__bottom, .multi-step-mobile-onboarding__step__content, .is-mobile .results_links_deep, .is-mobile .results_links, .is-mobile .result--news, .is-mobile .related-searches, .most-visited__info-tt, .user-loc-tooltip {
+    border: 1px solid #282828;
+    background: #000;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 50%);
+    color: #cccccc;
+}
+
+.acp-wrap {
+    background: #000;
+} 
+
+.js-acp-wrap {
+    background: #000;
+}
+
+html, body, .body--home, .site-wrapper, .region__body, .badge-link, .module--carousel__image-wrapper, .result__image, .vertical--map__sidebar, .vertical--map__sidebar__header, .page-chrome_newtab, .zci--type--tiles:not(.is-fallback).is-full-page.is-expanded, .zci--type--tiles:not(.is-fallback).is-full-page.is-expanded .metabar:not(.is-stuck) {
+    background-color: #000;
+}
+
+
+.footer {
+    background-color: #000;
+}
+
+.search-filters-wrap {
+    size: 0;
+}
+
+.search-filters-wrap:before {
+    background-image: linear-gradient(
+90deg
+, #0000, rgba(11%, 11%, 11%, 0));
+}
+
+.search-filters-wrap:after {
+    background-image: linear-gradient(
+90deg
+, rgba(11%, 11%, 11%, 0), #0000);
+}
+
+.search--adv {
+    background-color: #000;
+}
+
+.search--header {
+    background-color: #000;
+} 
+
+.js-search-form has-text {
+    background-color: #000;
+}
+
+.nav-menu--slideout .nav-menu__list {
+    background-color: #000;
+}
+
+
+
